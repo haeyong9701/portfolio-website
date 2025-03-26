@@ -1,2 +1,1 @@
-# portfolio-website
-portfolio website
+리액트만 사용
