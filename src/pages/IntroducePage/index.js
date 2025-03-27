@@ -1,5 +1,12 @@
+import Profile from "../../components/Profile";
+
 const IntroducePage = () => {
-  return <div>소개 페이지 입니다.</div>;
+  return (
+    <>
+      <Profile />
+      소개 페이지 입니다.
+    </>
+  );
 };
 
 export default IntroducePage;
